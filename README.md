@@ -1,4 +1,4 @@
-# Document Query App
+# Document Query App/ Query Document Finder
 
 ## Overview
 
